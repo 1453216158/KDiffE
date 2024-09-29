@@ -1,5 +1,5 @@
 ## KDiffE
-knowledge-aware Diffusion-Enhanced architecture using contrastive learning paradigm
+Knowledge-aware Diffusion-Enhanced for Multimedia Recommendation
 ## 📝 Environment
 
 We develop our codes in the following environment:
@@ -82,6 +82,6 @@ python Main.py --data baby  --epoch 130 --gpu '1' --temp 1 --similarity '50_8' -
 
 Performance comparison of baselines on different datasets in terms of Recall@20 and NDCG@20:
 
-![](./performance.png)
+![](./result.png)
 
 
