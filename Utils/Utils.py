@@ -1,6 +1,5 @@
 import torch as t
 import torch.nn.functional as F
-
 def innerProduct(usrEmbeds, itmEmbeds):
 	return t.sum(usrEmbeds * itmEmbeds, dim=-1)
 
