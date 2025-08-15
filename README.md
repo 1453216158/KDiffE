@@ -84,4 +84,7 @@ Performance comparison of baselines on different datasets in terms of Recall@20 
 
 ![](./result.png)
 
+##Acknowledgement
+The structure of this code is based on DiffKG. Thank for their work.
+
 
